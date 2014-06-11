@@ -122,6 +122,7 @@ public class AlarmClockSampleActivity extends Activity {
 
 				// ƒAƒ‰[ƒ€‰ğœ
 				am.cancel(sender);
+
 			}
 		}
 	};

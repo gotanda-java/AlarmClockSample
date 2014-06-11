@@ -79,10 +79,15 @@ public class AlarmOnOffActivity extends Activity {
 
                 // アラーム音の停止
                 player.stop();
+
+                // Activityを終了させる事により、一つ前のActivityへ戻る事が出来る。
+				finish();
             } else {
                 // 「間違い！」メッセージ表示
                 tvMessage.setText(getResources().getString(
                     R.string.tv_ng_message));
+
+
             }
         }
     };
