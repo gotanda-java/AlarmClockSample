@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="dark_blue">#000088</color>
-    <color name="grey_white">#CCCCCC</color>
+    <color name="dark_blue">#daa520</color>
+    <color name="grey_white">#fff</color>
 </resources>
