@@ -7,8 +7,6 @@ import android.hardware.SensorEvent;
 import android.hardware.SensorEventListener;
 import android.hardware.SensorManager;
 import android.os.Bundle;
-import android.widget.ImageView;
-import android.widget.TextView;
 
 
 // ‹ßÚƒZƒ“ƒT[Activity
